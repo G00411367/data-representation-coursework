@@ -1,0 +1,16 @@
+R	53.2878	-6.12712	E135	11 Oct 2023	E135\n23:05 - Howth to Greystones (1 mins late)\nArrived Sandycove next stop Glenageary	Southbound
+R	53.3433	-6.24829	A615	11 Oct 2023	A615\n22:25 - Gorey to Dublin Connolly (1 mins late)\nArrived Dublin Pearse next stop Tara Street	Northbound
+R	53.3629	-6.22753	E706	11 Oct 2023	E706\n23:40 - Malahide to Dublin Connolly (1 mins late)\nDeparted Clontarf Road next stop Dublin Connolly	Southbound
+R	53.3704	-6.50598	D938	11 Oct 2023	D938\n23:20 - Dublin Pearse to Maynooth (1 mins late)\nDeparted Leixlip (Louisa Bridge) next stop Maynooth	Northbound
+R	53.387	-6.16163	E950	11 Oct 2023	E950\n23:00 - Bray to Howth (1 mins late)\nArrived Kilbarrack next stop Howth Junction	Northbound
+R	53.3917	-6.13678	E707	11 Oct 2023	E707\n23:55 - Howth to Dublin Connolly (0 mins late)\nDeparted Bayside next stop Howth Junction	Southbound
+R	53.4169	-6.1512	D830	11 Oct 2023	D830\n23:40 - Dublin Pearse to Dundalk (2 mins late)\nArrived Portmarnock next stop Malahide	Northbound
+R	53.4175	-6.46483	D328	11 Oct 2023	D328\n23:57 - Clonsilla to M3 Parkway (-1 mins late)\nDeparted Dunboyne next stop M3 Parkway	Northbound
+R	53.712	-6.33538	D829	11 Oct 2023	D829\n22:40 - Dublin Pearse to Dundalk (5 mins late)\nDeparted Drogheda next stop Dundalk	Northbound
+T	53.1442	-6.06085	E134	11 Oct 2023	E134\n22:30 - Howth to Greystones(4 mins late)\nTERMINATED Greystones at 00:00	Southbound
+T	53.163	-6.90802	D226	11 Oct 2023	D226\n23:10 - Dublin Heuston to Kildare(-1 mins late)\nTERMINATED Kildare at 23:56	To Kildare
+T	53.2043	-6.10046	E263	11 Oct 2023	E263\n22:48 - Malahide to Bray(2 mins late)\nTERMINATED Bray at 00:02	Southbound
+T	53.3223	-6.52356	D426	11 Oct 2023	D426\n23:22 - Grand Canal Dock to Hazelhatch(-3 mins late)\nTERMINATED Hazelhatch at 00:02	Southbound
+T	53.3531	-6.24591	E703	11 Oct 2023	E703\n23:04 - Greystones to Dublin Connolly(0 mins late)\nTERMINATED Dublin Connolly at 00:01	Northbound
+T	53.3531	-6.24591	E705	11 Oct 2023	E705\n23:30 - Howth to Dublin Connolly(2 mins late)\nTERMINATED Dublin Connolly at 23:57	Southbound
+T	53.4509	-6.15649	E848	11 Oct 2023	E848\n22:34 - Greystones to Malahide(-2 mins late)\nTERMINATED Malahide at 23:58	Northbound

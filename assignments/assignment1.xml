@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Library>
+	<catalogue category="Technical">
+		<book id="t1">
+			<ISBN>9783161484100</ISBN>
+			<Title>Introduction to technical drawings></Title>
+			<Author>Jattie van der Baron></Author>
+		</book>
+		<book id="t2">
+			<ISBN>4327549498620</ISBN>
+			<Title>Arhicad</Title>
+			<Author>James Hughes</Author>
+		</book>	
+	</catalogue>
+
+	<catalogue category="Cookery">
+		<book id="c1">	
+			<ISBN>4136944087630</ISBN>
+			<Title>Healthy breakfast receipes</Title>
+			<Author>Maria Fabricante</Author>
+		</book>	
+		<book id="c2">			
+			<ISBN>2684982100250</ISBN>
+			<Title>Lindas kitchen</Title>
+			<Author>Linda Pereira</Author>	
+		</book>	
+	</catalogue>
+</Library>
+
