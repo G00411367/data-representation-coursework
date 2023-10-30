@@ -3,7 +3,6 @@ from github import Github
 from config import config as cfg
 
 apikey = cfg["githubkeyc"]
-#apikey ="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"
 
 g = Github(apikey)
 
@@ -26,5 +25,3 @@ print(newContents)
 
 gitHubResponse = repo.update_file("test.txt", "updated by prog", newContents, fileInfo.sha)
 print(gitHubResponse)
-
-#https://github.com/G00411367/testpygithub/blob/main/test.txt
