@@ -4,8 +4,6 @@ from config import config as cfg
 
 apikey = cfg["githubkey"]
 
-#apikey = ""
-
 g = Github(apikey)
 
 repo = g.get_repo("G00411367/data-representation-coursework") 
