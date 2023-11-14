@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>View books</title>
+        <!-- CSS only -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    </head>
+    <body>
+        <h1>Books</h1>
+        <div>
+            <button>Create a book</button>
+        </div></br>
+        <div>
+            <!--<h2>Table</h2>-->
+            <table class="table">
+                <tr>
+                    <th>id</th>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Price</th>
+                    <th>Update</th>
+                    <th>Delete</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Harry Potter does something</td>
+                    <td>JK Rowling</td>
+                    <td>12</td>
+                    <td><button>update</button></td>
+                    <td><button>delete</button></td>
+                </tr>
+            </table>
+        </div></br>
+        <div id="myform">
+            <h2><span>Create a Book</span><span style="display: none">Udate this</span></h2>
+            id <input type = "text" name = "id"> </br>
+            Title <input type = "text" name = "title"> </br>
+            Author <input type = "text" name = "author"> </br>
+            Price <input type="number" name="price"> </br>
+            Just to show select <select name="status">
+                <option value="instock">in stock</option>
+                <option value="outstock">out of stock</option>
+                <option value="other">out of print</option>
+            </select><br>
+            <span><button>Create</button></span>
+            <span><button style="display: none">Update</button></span>
+        </div>
+    </body>
+</html>
